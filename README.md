@@ -4,6 +4,8 @@ Group projects developed for the **Artificial Neural Networks and Deep Learning*
 
 The repository collects two homework assignments, each tackled by a different team and kept in its own folder.
 
+Group members: Alongi Tommaso, Carugati Federico, Paolini Francesco, Romani Alessandro
+
 ---
 
 ## Projects
